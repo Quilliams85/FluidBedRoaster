@@ -3,7 +3,8 @@
 
 <img src="https://github.com/Quilliams85/FluidBedRoaster/blob/main/Documentation/Photos/IMG_2929.jpeg?raw=true" alt="drawing" width="200"/>
 
-
+## Video Demo on Youtube
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LB3SWqTu2bo/0.jpg)](https://youtu.be/LB3SWqTu2bo)
 
 ## Instructions
 
